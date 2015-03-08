@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hematies</string>
+    <string name="welcom_msg">Bienvenue sur l\'application de HUMANIST NETWORK !</string>
+    <string name="action_settings">Paramètre</string>
+    <string name="menu_quitter">Quitter</string>
+    <string name="label_radio_femme">Femme</string>
+    <string name="label_radio_homme">Homme</string>
+    <string name="label_btn_calcul">Calculer</string>
+    <string name="lb_titre">Hématies (en millions /mm3)</string>
+    <string name="info_text">Résultat:\nVous devez cliquer sur le boutton Calculer\npour obtenir un résultat.</string>
+    <string name="genre">Veuillez sélectionner le sexe :</string>
+
+</resources>
